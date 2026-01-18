@@ -1,0 +1,26 @@
+This is the project for an exam submission for Big Data & AI. Heres the exercise:
+
+On the 19th December 2025 each of you will randomly get assigned one scientific article ("paper") that fits into the Big Data and Artificial Intelligence topics. You will find the paper on this day on the E-Learning course under the section "Exam". The exam is to implement the algorithm described in the paper in Python and demonstrate that you did implement it correctly by applying it to a data set (or in case of RL: an environment) and testing its performance. Implementation and demonstration need to be done in a Jupyter notebook.
+
+For the implementation part, following rules need to be followed:
+
+Read the paper multiple times with the aim to find and understand the algorithm the paper is about. Usually the paper is not only describing an algorithm but also including some theory about it that for this exam you may kindly ignore.
+Allowed libraries are: Python standard library, numpy, pandas, matplotlib. Any other libraries, e.g. sklearn, tensorflow, keras, are not allowed for the exam.
+    You may reuse any Python code on the Big Data and Artificial Intelligence E-Learning course. Copying any code from any other sources is not allowed for the exam. Any attempts to do it is cheating and will be reported to the exam office at HNU.
+Add some comments (not too much, not too less) to your written Python code so it can be clearly identified that you understand what the algorithm does.
+For the demonstration part, following rules need to be followed:
+
+Find a suitable and publicly available data set. Some sources are: Kaggle and UCI Machine Learning Repository. State clearly within the Jupyter Notebook which data set you used. It is not needed to use the same data set as described in the handed-out paper.
+Apply the algorithm you implemented to this data set, test its performance and show that the performance is superior to its base equivalent
+The resulting executed Jupyter notebook, including an URL to the publicly data set you used, has to be submitted no later than 6th February 2026 5pm German time over the E-Learning course.
+
+The grades you will receive after the submission depend on the correctness and quality of the implementation and demonstration. Quality for coding means that you write short to-the-point code that is appropriately documented by comments. Extra points can be received by evaluating the hyperparameters of the algorithm on your data set (use validation data) and report the best hyperparameter values and the best performance (on test data).
+
+You are allowed to ask questions by e-Mail for clarification purposes but you are not allowed to show me your Jupyter notebook (Python code) before the deadline.
+
+Missing the strict deadline or not following the rules will result in grade 5.0 - or worse if you cheat.
+
+Please read this notification carefully, probably several times.
+
+I wish you the very best for the exam.
+
